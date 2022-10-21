@@ -1,5 +1,6 @@
+/* Add horrific red lines outlining everything */
+
 *{
-    border: red;
-    padding: orange;
-    margin: green;
+    border: 2px solid red;
+
 }
