@@ -28,3 +28,16 @@
 .head li a:hover{
     background-color: #111;
 }
+
+.moves h1{
+    color:green ;
+    transition: color 2s;
+    animation: example;
+    animation-duration: 4s;
+}
+
+@keyframes example {
+    0%{color:green}
+    50%{color: red;}    
+    100%{color: green;}
+}
