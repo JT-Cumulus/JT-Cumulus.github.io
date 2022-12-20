@@ -1,6 +1,31 @@
 /* Add horrific red lines outlining everything */
 
 *{
-    border: 2px solid red;
+    font-family: Arial, Helvetica, serif;
+    background-color: rgb(46, 43, 43);
+    color: white;
 
+}
+
+.head ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.head li{
+    float: right;
+}
+
+.head li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.head li a:hover{
+    background-color: #111;
 }
