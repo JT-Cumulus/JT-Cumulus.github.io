@@ -30,6 +30,7 @@
 }
 
 .moves h1{
+    text-align: center;
     color:green ;
     transition: color 2s;
     animation: example;
@@ -40,4 +41,9 @@
     0%{color:green}
     50%{color: red;}    
     100%{color: green;}
+}
+
+p{
+    padding-top: 30px;
+    padding-left: 40px;
 }
