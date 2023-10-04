@@ -1,11 +1,4 @@
-# Head page for main github
+# Head page for projects and basic profile
 
-Proposed Layout
-About
-Projects
-Blog - Movies/Games/Books
-
-TODO
-- [] Alphabetical indexing of reviews
-- [] Easy create template of pages
-- [] Readable layout
+Built with Html, CSS, JS, Bootstrap, Icomoon, SASS.
+Made with help of html5 template.
